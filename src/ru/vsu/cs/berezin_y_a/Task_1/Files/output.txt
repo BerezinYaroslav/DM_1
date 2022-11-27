@@ -1,0 +1,12 @@
+Input array:  [23, 44, 2, 6, 8, 99, 1]
+Sorted array: [1, 2, 6, 8, 23, 44, 99]
+
+Index of 1:   0
+Index of 2:   1
+Index of 6:   2
+Index of 8:   3
+Index of 23:  4
+Index of 44:  5
+Index of 99:  6
+
+Average number of comparisons: 6
